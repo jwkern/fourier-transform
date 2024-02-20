@@ -5,11 +5,11 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________________________________________________
 GENERAL DESCRIPTION:
-This is a basic SQL script to import data into a new database, and calculates values using simple arithmetic.
+This program applies the Fourier Transform to time-series data containing multiple frequencies. 
 
 ___________________________________________________________________________________________________________________________________________________________________
 DATA DESCRIPTION:
-The data in these scripts are simple 
+The data in these scripts are toy lightcurves consisting of simple sine waves with user defined frequencies. The amplitude of these sinusoids are not physically significant, and thus have no real meaning. The duration of the toy lightcurves comes in three types which can also be adjusted in the code.   
 
 ___________________________________________________________________________________________________________________________________________________________________
 CODE DESCRIPTION: FT.ipynb
